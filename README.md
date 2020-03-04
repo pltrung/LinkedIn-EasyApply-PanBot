@@ -2,7 +2,7 @@
 
 My version of LinkedIn EasyApply bot (Updated March, 2020), automating application process on LinkedIn
 
-# Usage:
+# Usage
   1. Download all files
   2. Run "panbot.py"
   3. Go through GUI prompt 
