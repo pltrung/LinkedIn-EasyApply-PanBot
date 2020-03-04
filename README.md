@@ -1,4 +1,4 @@
-# LinkedIn-EasyApply-PanBot
+# LinkedIn EasyApply PanBot V2.0
 
 My version of LinkedIn EasyApply bot (Updated March, 2020), automating application process on LinkedIn
 
@@ -15,7 +15,7 @@ Version 2.0 Update:
   - Added LinkedIn Auto In-Mail apply for Premium members only
   - Added "Max-Applications" feature
   
-# Upcoming:
+# Upcoming
   - Allow different resumes while iterating differnt job descriptions
   - Spanish/Chinese/Vietnamese language avaliable 
 
