@@ -20,7 +20,7 @@ Version 2.0 Update:
   - Allow different resumes while iterating differnt job descriptions
   - Spanish/Chinese/Vietnamese language avaliable 
 
-# Special Shoutout to nicolomantini where I used blocks of his code and created my own version of GUI as well as added features #
+Special Shoutout to nicolomantini where I used blocks of his code and created my own version of GUI as well as added features 
 
 
 
