@@ -6,7 +6,8 @@ My version of LinkedIn EasyApply bot (Updated March, 2020), automating applicati
   1. Download all files
   2. Run "panbot.py"
   3. Go through GUI prompt 
-  4. Have fun watching! :) 
+  4. Have fun watching! :)
+  5. "complete_joblist.csv" will output all jobs applied, including its position, company, recruiter information (Premium members only)
   
 # Current Version
 Version 2.0 Update:
